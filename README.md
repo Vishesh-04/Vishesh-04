@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m Vishesh Jindal<br>👀 I’m interested in Coding, Studying<br>🌱 I’m currently learning B.tech<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me through LinkedIn
+ Hi, I’m Vishesh Jindal<br>👀 I’m interested in Coding, Studying<br>🌱 I’m currently Pursuing B.tech<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me - through LinkedIn
 
 
 ## 🌐 Socials:
