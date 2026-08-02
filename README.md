@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishesh_jindal_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishesh-jindal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@visheshjindal04) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vishesh92086835) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:visheshjindal04@gmail.com) 
 
 ## 🌍 Portfolio:
-🔗 [Visit My Portfolio](https://www.vishesh04.xyz/)
+🔗 [Visit My Portfolio](http://visheshjindal.vercel.app/)
 
 ## 👨‍💻 Coding Profiles:
 - [Codolio](https://codolio.com/profile/Vishesh-04)  
